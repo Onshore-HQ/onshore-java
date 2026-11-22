@@ -10,6 +10,15 @@
   <name>Onshore SDK for Java</name>
   <description>Store sensitive values in your in-country vault and work with tokens. No dependencies.</description>
   <url>https://docs.onshorevault.com/developers/sdks/java/</url>
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+    </license>
+  </licenses>
+  <organization>
+    <name>Flowsplus Services</name>
+  </organization>
   <properties>
     <maven.compiler.release>17</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
